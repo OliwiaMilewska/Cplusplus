@@ -1,2 +1,2 @@
 # C++
-Zbiór programów stworzonych przeze mnie w liceum w celu nauki programowania obiektowego.
+A collection of programs created by me in high school to learn object-oriented programming.
